@@ -1,0 +1,20 @@
+# api
+fastapi[all]~=0.92.0
+dependency_injector
+requests
+google-api-python-client
+python-resize-image
+Pillow
+asyncpg
+greenlet
+
+# s3
+boto3
+
+#db
+sqlalchemy
+alembic
+psycopg2-binary
+
+# hooks
+pre-commit
